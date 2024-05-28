@@ -1,0 +1,14 @@
+C:\Users\jayso\Desktop\Calendar\Calendar\bin\Debug\net8.0\Calendar.exe
+C:\Users\jayso\Desktop\Calendar\Calendar\bin\Debug\net8.0\Calendar.deps.json
+C:\Users\jayso\Desktop\Calendar\Calendar\bin\Debug\net8.0\Calendar.runtimeconfig.json
+C:\Users\jayso\Desktop\Calendar\Calendar\bin\Debug\net8.0\Calendar.dll
+C:\Users\jayso\Desktop\Calendar\Calendar\bin\Debug\net8.0\Calendar.pdb
+C:\Users\jayso\Desktop\Calendar\Calendar\obj\Debug\net8.0\Calendar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jayso\Desktop\Calendar\Calendar\obj\Debug\net8.0\Calendar.AssemblyInfoInputs.cache
+C:\Users\jayso\Desktop\Calendar\Calendar\obj\Debug\net8.0\Calendar.AssemblyInfo.cs
+C:\Users\jayso\Desktop\Calendar\Calendar\obj\Debug\net8.0\Calendar.csproj.CoreCompileInputs.cache
+C:\Users\jayso\Desktop\Calendar\Calendar\obj\Debug\net8.0\Calendar.dll
+C:\Users\jayso\Desktop\Calendar\Calendar\obj\Debug\net8.0\refint\Calendar.dll
+C:\Users\jayso\Desktop\Calendar\Calendar\obj\Debug\net8.0\Calendar.pdb
+C:\Users\jayso\Desktop\Calendar\Calendar\obj\Debug\net8.0\Calendar.genruntimeconfig.cache
+C:\Users\jayso\Desktop\Calendar\Calendar\obj\Debug\net8.0\ref\Calendar.dll
